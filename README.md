@@ -31,7 +31,7 @@ To set up and run this app, follow these steps:
    Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/smu-pcmob4-1.git
+   git clone https://github.com/gnid-dev/smu-pcmob4-1.git
    ```
 
 2. **Navigate to the Project Directory**:
